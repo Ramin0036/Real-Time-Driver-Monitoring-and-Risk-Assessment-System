@@ -6,7 +6,7 @@ A real-time Driver Monitoring System (DMS) that analyzes driver alertness, atten
 
 Real-time dashboard output:
 
-![DMS Demo](assets/demo.png)
+<img width="400" height="192" alt="gif" src="https://github.com/user-attachments/assets/99a6428c-3bba-459d-ba51-6f633d542629" />
 
 ---
 
